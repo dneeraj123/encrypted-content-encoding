@@ -1,5 +1,7 @@
 # encrypted-content-encoding
 
+This fork deals with base64 encoding issue of the buffer data.
+
 A simple implementation of the [HTTP encrypted
 content-encoding](https://tools.ietf.org/html/rfc8188)
 
