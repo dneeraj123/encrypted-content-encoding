@@ -1,18 +1,18 @@
 {
-  "name": "http_ece",
+  "name": "@nd/http_ece",
   "version": "1.0.0",
   "description": "Encrypted Content-Encoding for HTTP",
   "homepage": "https://github.com/dneeraj123/encrypted-content-encoding.git",
-  "bugs": "https://github.com/dneeraj123/encrypted-content-encoding.git/issues",
-  "author": {
-    "name": "Neeraj"
+  "bugs": {
+    "url": "https://github.com/dneeraj123/encrypted-content-encoding.git/issues"
   },
-  "contributors": [{
-    "name": "Neeraj"
-  }],
+  "author": "Neeraj",
+  "contributors": [
+    "Neeraj"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dneeraj123/encrypted-content-encoding.git"
+    "url": "git+https://github.com/dneeraj123/encrypted-content-encoding.git"
   },
   "license": "MIT",
   "main": "./ece.js",
